@@ -1,7 +1,7 @@
 # **Election_Analysis**
 Analysis on election results 
 ## Overview of Project
-In this project, we used python to analyze election results of three candidates. The results are generated from various counties. This analysis is to show critical information about this election. We have generated total vote counts, votes from each county, votes each candiadte get, and also the percentage of votes distribution.
+In this project, we used python to analyze election results of three candidates. The results are generated from various counties. This analysis is to show critical information about this election. We have generated total vote counts, votes from each county, votes each candidate get, and also the percentage of votes distribution.
 ## Election-Audit Results
 ![results](Resources/results.png)
 <br />-Total votes casted in this election : 369,711
